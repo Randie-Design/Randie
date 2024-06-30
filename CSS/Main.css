@@ -1,0 +1,35 @@
+body { /* Background */
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+#txt { /* Name */
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 3, 3);
+    font-size: 2em;
+}
+#pepe {
+    margin: center;
+    width: 20px;
+    height: 20px;
+}
+#txt2 { /* Name */
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 3, 3);
+    font-size: 2em;
+}
+#txt3 { /* Name */
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 3, 3);
+    font-size: 2em;
+}
