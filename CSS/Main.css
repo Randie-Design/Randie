@@ -3,7 +3,12 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 80vh; /* Optional: makes the container take full viewport height */
+    height: 100vh; /* Optional: makes the container take full viewport height */
     text-align: center;
 }
 
+#txt1 {
+    margin: 0; /* Optional: remove default margins */
+    font-size: 45px; /* Adjust font size as needed */
+    font-family: 'Roboto', sans-serif; /* Use the custom Google Font */
+}
