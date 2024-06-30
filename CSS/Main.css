@@ -1,12 +1,29 @@
 body { /* Background */
     margin: 0;
     height: 100vh;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.397);
     position: relative;
 }
-#txt1 { /* Name */
+#txt2 { /* Name */
     position: absolute;
     top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 3, 3);
+    font-style: italic;
+    font-size: 60px;
+}
+#pepe {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 3, 3);
+    font-size: 2em;
+}
+#pepe3 {
+    position: absolute;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgb(255, 3, 3);
@@ -18,13 +35,6 @@ body { /* Background */
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgb(255, 3, 3);
-    font-size: 2em;
-}
-#pepe {
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: rgb(255, 3, 3);
-    font-size: 2em;
+    font-style: italic;
+    font-size: 60px;
 }
