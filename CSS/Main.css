@@ -5,7 +5,7 @@ body { /* Background */
     position: relative;
 }
 #txt { /* Name */
-    position: absolute;
+    margin:auto
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
