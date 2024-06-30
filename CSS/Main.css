@@ -5,7 +5,12 @@ body { /* Background */
     position: relative;
 }
 #txt { /* Name */
-    margin:auto
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 3, 3);
+    font-size: 2em;
 }
 #pepe {
     margin: center;
