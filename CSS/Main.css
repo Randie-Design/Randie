@@ -5,6 +5,15 @@ body { /* Background */
     position: relative;
 }
 
+#pepe {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 3, 3);
+    font-size: 2em;
+}
+
 #txt2 { /* Name */
     position: absolute;
     top: 25%;
@@ -13,13 +22,4 @@ body { /* Background */
     color: rgb(255, 3, 3);
     font-style: italic;
     font-size: 60px;
-}
-
-#pepe {
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: rgb(255, 3, 3);
-    font-size: 2em;
 }
