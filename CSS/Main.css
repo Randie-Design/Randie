@@ -23,22 +23,3 @@ body { /* Background */
     color: rgb(255, 3, 3);
     font-size: 2em;
 }
-
-#pepe3 {
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: rgb(255, 3, 3);
-    font-size: 2em;
-}
-
-#txt3 { /* Name */
-    position: absolute;
-    top: 25%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: rgb(255, 3, 3);
-    font-style: italic;
-    font-size: 60px;
-}
