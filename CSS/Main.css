@@ -4,6 +4,7 @@ body { /* Background */
     background-color: rgba(255, 255, 255, 0.397);
     position: relative;
 }
+
 #txt2 { /* Name */
     position: absolute;
     top: 25%;
@@ -13,6 +14,7 @@ body { /* Background */
     font-style: italic;
     font-size: 60px;
 }
+
 #pepe {
     position: absolute;
     top: 60%;
@@ -21,6 +23,7 @@ body { /* Background */
     color: rgb(255, 3, 3);
     font-size: 2em;
 }
+
 #pepe3 {
     position: absolute;
     top: 60%;
@@ -29,6 +32,7 @@ body { /* Background */
     color: rgb(255, 3, 3);
     font-size: 2em;
 }
+
 #txt3 { /* Name */
     position: absolute;
     top: 25%;
