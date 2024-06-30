@@ -15,13 +15,7 @@ body { /* Background */
 }
 
 #txt2 { /* Name */
-    font-family: 'Open Sans', sans-serif;
-    font-size: 72px; /* initial size, should match the initialSize in your JavaScript code */
-    transition: font-size 1s ease-in-out; /* makes the change in font size smooth */
-    /* Add these styles for the typing animation */
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: .15em solid orange; /* The cursor */
-    animation: typing 1s steps(100, end), forwards, blink-caret .75s step-end infinite;
-    max-width: 100%;
+    position: absolute;
+    top: 60%;
+    left: 50%;
 }
