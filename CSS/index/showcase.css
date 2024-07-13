@@ -1,0 +1,19 @@
+.showcase {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.showcase-title {
+    font-size: 2em;
+    font-family: 'Arial', sans-serif;
+    margin: 50px;
+    text-align: center;
+}
+
+.showcase-videos {
+    border-radius: 50px;
+    margin: 10px;
+    text-align: center;
+}

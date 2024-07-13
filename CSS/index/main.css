@@ -1,21 +1,24 @@
-#Main {
+#main {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    justify-content: flex-end;
     text-align: center;
 }
 
-#txt1 {
-    margin: 0;
-    font-size: 2.5em;
+#name {
+    padding-top: 100px;
+    font-size: xx-large;
+    margin: 0px;
     font-family: 'Arial', sans-serif;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+#profile-pic {
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    
 }
 
 #top-right-container {
